@@ -1,0 +1,12 @@
+transformers==4.48.0
+einops==0.8.1
+torch>=2.2
+faiss-cpu
+qdrant-client
+openai
+requests
+numpy
+python-dotenv
+nest_asyncio
+matplotlib
+nbformat
